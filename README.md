@@ -16,7 +16,7 @@ This project is built using React and offers an interactive quiz experience with
 ## Installation
 1. Clone this repository:
   ```bash
-  git clone https://github.com/your-username/React_Quiz_App.git
+  git clone https://github.com/VinayShetyeOfficial/React_Quiz_App.git
   cd React_Quiz_App
   ```
 
