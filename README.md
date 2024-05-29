@@ -1,5 +1,5 @@
 # React Quiz App
-[Live Preview](https://superb-fudge-b88ad7.netlify.app/)
+[Live Preview](https://superb-fudge-b88ad7.netlify.app/) 
 
 ![Quiz-App](https://github.com/VinayShetyeOfficial/React_Quiz_App/assets/100470361/927112bf-a5e6-49d3-8b3b-7492fa88a805)
 
