@@ -4,7 +4,7 @@
 ![Quiz-App](https://github.com/VinayShetyeOfficial/React_Quiz_App/assets/100470361/927112bf-a5e6-49d3-8b3b-7492fa88a805)
 
 
-## Introduction
+## Introduction 
 Welcome to my React Quiz App Repo! <br>
 This project is built using React and offers an interactive quiz experience with multiple-choice questions.  Users can answer the questions, view their score, and try again to improve their performance. Let’s explore more!
 
