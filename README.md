@@ -6,7 +6,7 @@
 
 ## Introduction
 Welcome to my React Quiz App Repo! <br>
-This project is built using React and offers an interactive quiz experience with multiple-choice questions. Users can answer the questions, view their score, and try again to improve their performance. Let’s explore more!
+This project is built using React and offers an interactive quiz experience with multiple-choice questions.  Users can answer the questions, view their score, and try again to improve their performance. Let’s explore more!
 
 ## Features
 - **Interactive Questions:** Engaging multiple-choice questions on various topics.
